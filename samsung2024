@@ -6,7 +6,7 @@ http://is.am/5xrj
 
 #EXTINF:-1 tvg-id="angiang" group-title=" Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/107.png", ATV | Truyền Hình An Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thvip.site/360/35/index.m3u8
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title=" Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/136.png", THĐT1 HD | Truyền Hình Đồng Tháp
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
@@ -21,21 +21,21 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w1358099407.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title=" Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | Truyền Hình Thành Phố Cần Thơ
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://thvip.site/360/47/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=47
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title=" Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title=" Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/26/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=26
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title=" Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title=" Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/220/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=220
 #EXTINF:-1 tvg-id="longan" group-title=" Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/158.png", LA34 HD | Truyền hình Long An
-https://thvip.site/360/72/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=72
 #EXTINF:-1 tvg-id="baclieu" group-title=" Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/112.png", Bạc Liêu HD
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title=" Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/147.png", HGTV HD | Truyền Hình Hậu Giang
@@ -69,16 +69,16 @@ http://thvip.site/vtv3/index.m3u8
 http://thvip.site/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/lak883WKa3s/hq720.jpg", VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://thvip.site/360/110/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=110
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, giống như Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 http://thvip.site/360/157/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, giống như Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://thvip.site/360/207/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=207
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://thvip.site/360/98/index.m3u8
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=98
 #EXTINF:-1 tvg-id="vtv7hd" ​​group-title="VTV" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://thvip.site/vtv7/index.m3u8

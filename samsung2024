@@ -69,16 +69,16 @@ http://thvip.site/vtv3/index.m3u8
 http://thvip.site/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/lak883WKa3s/hq720.jpg", VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=110
+https://tv.TruyenHinh.Click/CoBan/vtv5hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, giống như Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://thvip.site/360/157/index.m3u8
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, giống như Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=207
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=98
+https://tv.TruyenHinh.Click/CoBan/vtv6hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtv7hd" ​​group-title="VTV" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://thvip.site/vtv7/index.m3u8
